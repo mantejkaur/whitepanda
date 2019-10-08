@@ -1,5 +1,4 @@
-# WhitePanda
-##    Content Store
+#    Content Store
 
 ###    Got bulk orders or almost similar orders? Fill the order brief in an excel sheet
 
