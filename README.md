@@ -1,9 +1,10 @@
+# WhitePanda
 ##    Content Store
 
-You can use the [editor on GitHub](https://github.com/mantejkaur/whitepanda/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+###    Got bulk orders or almost similar orders? Fill the order brief in an excel sheet
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+If you're  wondering about an easy way to place orders in large numbers, we provide a way customized just for that.
+Download our excel sheet, and fill the order breif in the prescribed format and submit.In case you need any help, [Link](url) we are just a click away to assist you in placing your order.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
