@@ -5,7 +5,7 @@
 If you're  wondering about an easy way to place orders in large numbers, we provide a way customized just for that.
 Download our excel sheet, and fill the order breif in the prescribed format and submit.In case you need any help, [we are just a click away to assist you in placing your order.](url) 
 
-<button type ="button"> Order via Excel Sheet <button> 
+<button type ="button"> Order via Excel Sheet  
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
