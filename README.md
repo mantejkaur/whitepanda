@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+##    Content Store
 
 You can use the [editor on GitHub](https://github.com/mantejkaur/whitepanda/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
