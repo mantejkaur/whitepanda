@@ -60,7 +60,7 @@ Download our excel sheet, and fill the order breif in the prescribed format and 
               Typically 450-400 words, an e-book is 
               perfect for your target audience ranging 
               from prospective customers to users
-              <button type ="button"> Order </button>
+              <button type ="button"> Order </button> 
             
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
