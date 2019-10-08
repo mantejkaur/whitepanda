@@ -7,6 +7,12 @@ Download our excel sheet, and fill the order breif in the prescribed format and 
 
 <button type ="button"> Order via Excel Sheet  
 ### Markdown
+  <div>
+    <div> **Blog/Article**
+          from ₹500
+      <p> Typically 450-400 words, an e-book is 
+        perfect for your target audience ranging from prospective customers to users
+        <button> Order
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
