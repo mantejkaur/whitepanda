@@ -20,83 +20,86 @@ Download our excel sheet, and fill the order breif in the prescribed format and 
              
   
 
- **Newsletter/E-mailer**
-  ```markdown  
+**Newsletter/E-mailer**
+```markdown  
          from ₹1000
             Typically 450-400 words, an e-book is 
             perfect for your target audience ranging 
             from prospective customers to users
-
-  ```
+```
 <button type ="button"> Order
   
 **Whitepaper**
-     ```markdown
+```markdown
           from ₹2000
               Typically 450-400 words, an e-book is 
               perfect for your target audience ranging 
               from prospective customers to users
-       ```
+```
 <button type ="button"> Order 
 
   
  
- **e-book**
-     ```markdown
+**e-book**
+```markdown
           from ₹1000
                Typically 450-400 words, an e-book is 
                perfect for your target audience ranging 
                from prospective customers to users
-      ```
+```
 <button type ="button"> Order
 
- **Product Description**
-    ```markdown
+**Product Description**
+```markdown
           from ₹500
                Typically 450-400 words, an e-book is 
                perfect for your target audience ranging
                from prospective customers to users
 
-      ```
-  <button type ="button"> Order
+```
+<button type ="button"> Order
   
- **Website Content**
- ```markdown
+**Website Content**
+```markdown
          from ₹1000
               Typically 450-400 words, an e-book is 
               perfect for your target audience ranging 
               from prospective customers to users
-    ```
+```
 <button type ="button"> Order
  
 **Video Script**
   
-  ```markdown
+```markdown
         from ₹500
               Typically 450-400 words, an e-book is 
               perfect for your target audience ranging 
               from prospective customers to users
-   ```
+```
 <button type ="button"> Order
   
 **Company Profile/Brochure**
-  ```markdown
+```markdown
         from ₹2000
               Typically 450-400 words, an e-book is 
               perfect for your target audience ranging 
               from prospective customers to users
-    ```
+ ```
 <button type ="button"> Order
 
-   **Press Release**
+**Press Release**
      
-  ```markdown
+```markdown
         from ₹2000
               Typically 450-400 words, an e-book is 
               perfect for your target audience ranging 
               from prospective customers to users
-   ```    
+```    
 <button type ="button"> Order  
+   
+   
+   
+   
     
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
