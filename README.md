@@ -8,7 +8,7 @@ Download our excel sheet, and fill the order breif in the prescribed format and 
 <button type ="button"> Order via Excel Sheet  
    
   
-**Blog/Article**                                      | **Newsletter/E-mailer**
+  Blog/Article                                        | Newsletter/E-mailer
 ---------------------------------------------------------------------------------------------------------------
  ```markdown                                          |  ```markdown
             from ₹500                                 |               from ₹500 
