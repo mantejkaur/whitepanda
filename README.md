@@ -87,12 +87,10 @@ Download our excel sheet, and fill the order breif in the prescribed format and 
 
 **Press Release**
      
-```markdown
-        from ₹2000
-              Typically 450-400 words, an e-book is 
-              perfect for your target audience ranging 
-              from prospective customers to users
-```    
+>from ₹2000
+>>Typically 450-400 words, an e-book is 
+>>perfect for your target audience ranging 
+>>from prospective customers to users   
 <button type ="button"> Order  
    
    
