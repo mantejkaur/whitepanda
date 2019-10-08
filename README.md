@@ -4,7 +4,7 @@
 ###    Got bulk orders or almost similar orders? Fill the order brief in an excel sheet
 
 If you're  wondering about an easy way to place orders in large numbers, we provide a way customized just for that.
-Download our excel sheet, and fill the order breif in the prescribed format and submit.In case you need any help, [Link](url) we are just a click away to assist you in placing your order.
+Download our excel sheet, and fill the order breif in the prescribed format and submit.In case you need any help, [we are just a click away to assist you in placing your order.](url) 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
