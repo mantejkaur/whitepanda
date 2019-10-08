@@ -10,7 +10,7 @@ Download our excel sheet, and fill the order breif in the prescribed format and 
   
 
 **Blog/Article** 
-```markdown
+```c
             from ₹500                                                 
             Typically 450-400 words, an e-book is                          
             perfect for your target audience ranging                  
@@ -19,7 +19,7 @@ Download our excel sheet, and fill the order breif in the prescribed format and 
 <button type ="button"> Order
      
 **Newsletter/E-mailer**
-```markdown  
+```c 
          from ₹1000
             Typically 450-400 words, an e-book is 
             perfect for your target audience ranging 
@@ -28,7 +28,7 @@ Download our excel sheet, and fill the order breif in the prescribed format and 
 <button type ="button"> Order
   
 **Whitepaper**
-```markdown
+```c
           from ₹2000
               Typically 450-400 words, an e-book is 
               perfect for your target audience ranging 
