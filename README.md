@@ -7,42 +7,42 @@ Download our excel sheet, and fill the order breif in the prescribed format and 
 
 <button type ="button"> Order via Excel Sheet  
 
-   ## **Blog/Article**
-           ##### from ₹500
+   ## Blog/Article
+            from ₹500
             Typically 450-400 words, an e-book is 
             perfect for your target audience ranging
             from prospective customers to users
-            <button type ="button"> Order
+            <button type ="button"> Order </button>
    ## Newsletter/E-mailer
           from ₹1000
             Typically 450-400 words, an e-book is 
             perfect for your target audience ranging 
             from prospective customers to users
-            <button type ="button"> Order
+            <button type ="button"> Order </button>
    ## Whitepaper
           from ₹2000
               Typically 450-400 words, an e-book is 
               perfect for your target audience ranging 
               from prospective customers to users
-              <button type ="button"> Order
+              <button type ="button"> Order </button>
    ## e-book
           from ₹1000
                Typically 450-400 words, an e-book is 
                perfect for your target audience ranging 
                from prospective customers to users
-               <button type ="button"> Order
+               <button type ="button"> Order </button>
    ##  Product Description
           from ₹500
                Typically 450-400 words, an e-book is 
                perfect for your target audience ranging
                from prospective customers to users
-               <button type ="button"> Order
+               <button type ="button"> Order </button>
    ## Website Content
          from ₹1000
               Typically 450-400 words, an e-book is 
               perfect for your target audience ranging 
               from prospective customers to users
-              <button type ="button"> Order
+              <button type ="button"> Order </button>
    ## Video Script
         from ₹500
               Typically 450-400 words, an e-book is 
@@ -54,13 +54,13 @@ Download our excel sheet, and fill the order breif in the prescribed format and 
               Typically 450-400 words, an e-book is 
               perfect for your target audience ranging 
               from prospective customers to users
-              <button type ="button"> Order
+              <button type ="button"> Order </button>
    ## Press Release
         from ₹2000
               Typically 450-400 words, an e-book is 
               perfect for your target audience ranging 
               from prospective customers to users
-              <button type ="button"> Order
+              <button type ="button"> Order </button>
             
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
