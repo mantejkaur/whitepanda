@@ -8,7 +8,7 @@ Download our excel sheet, and fill the order breif in the prescribed format and 
 <button type ="button"> Order via Excel Sheet  
    
   
-## Blog/Article
+### Blog/Article
  ```markdown
             from ₹500
             Typically 450-400 words, an e-book is 
@@ -19,14 +19,16 @@ Download our excel sheet, and fill the order breif in the prescribed format and 
 
              
   
-  ```markdown
-   **Newsletter/E-mailer**
-          from ₹1000
+
+ ### Newsletter/E-mailer
+  ```markdown  
+         from ₹1000
             Typically 450-400 words, an e-book is 
             perfect for your target audience ranging 
             from prospective customers to users
-<button type ="button"> Order
+
   ```
+<button type ="button"> Order
   
   ```markdown
    **Whitepaper**
