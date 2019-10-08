@@ -6,14 +6,16 @@ If you're  wondering about an easy way to place orders in large numbers, we prov
 Download our excel sheet, and fill the order breif in the prescribed format and submit.In case you need any help, [we are just a click away to assist you in placing your order.](url) 
 
 <button type ="button"> Order via Excel Sheet  
+   
    ```markdown
-   **Blog/Article**
+   ## Blog/Article
             from ₹500
             Typically 450-400 words, an e-book is 
             perfect for your target audience ranging
             from prospective customers to users
-            <button type ="button"> Order </button>
+            
   ```
+            <button type ="button"> Order 
   
   ```markdown
    **Newsletter/E-mailer**
@@ -21,7 +23,7 @@ Download our excel sheet, and fill the order breif in the prescribed format and 
             Typically 450-400 words, an e-book is 
             perfect for your target audience ranging 
             from prospective customers to users
-            <button type ="button"> Order </button>
+            <button type ="button"> Order 
   ```
   
   ```markdown
