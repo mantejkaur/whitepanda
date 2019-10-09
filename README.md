@@ -26,7 +26,7 @@ Download our excel sheet, and fill the order breif in the prescribed format and 
 ```
 <button type ="button"> Order
   
-![https://raw.githubusercontent.com/mantejkaur/whitepanda/master/logo_comp.png](src) **Whitepaper**
+**Whitepaper**
 ```markdown
           from ₹2000
               Typically 450-400 words, an e-book is 
