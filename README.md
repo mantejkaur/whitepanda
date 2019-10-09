@@ -8,8 +8,7 @@ Download our excel sheet, and fill the order breif in the prescribed format and 
 <button type ="button"> Order via Excel Sheet  
    
   
-
-![https://raw.githubusercontent.com/mantejkaur/whitepanda/master/logo_comp.png](src) **Blog/Article** 
+ **Blog/Article** 
 ```markdown
             from ₹500                                                 
             Typically 450-400 words, an e-book is                          
@@ -18,7 +17,7 @@ Download our excel sheet, and fill the order breif in the prescribed format and 
 ```   
 <button type ="button"> Order
      
-![https://raw.githubusercontent.com/mantejkaur/whitepanda/master/logo_comp.png](src) **Newsletter/E-mailer**
+**Newsletter/E-mailer**
 ```markdown
          from ₹1000
             Typically 450-400 words, an e-book is 
@@ -38,7 +37,7 @@ Download our excel sheet, and fill the order breif in the prescribed format and 
 
   
  
-![https://raw.githubusercontent.com/mantejkaur/whitepanda/master/logo_comp.png](src) **e-book**
+**e-book**
 ```markdown
           from ₹1000
                Typically 450-400 words, an e-book is 
@@ -47,7 +46,7 @@ Download our excel sheet, and fill the order breif in the prescribed format and 
 ```
 <button type ="button"> Order
 
-![https://raw.githubusercontent.com/mantejkaur/whitepanda/master/logo_comp.png](src) **Product Description**
+**Product Description**
 ```markdown
           from ₹500
                Typically 450-400 words, an e-book is 
@@ -57,7 +56,7 @@ Download our excel sheet, and fill the order breif in the prescribed format and 
 ```
 <button type ="button"> Order
   
-![https://raw.githubusercontent.com/mantejkaur/whitepanda/master/logo_comp.png](src) **Website Content**
+**Website Content**
 ```markdown
          from ₹1000
               Typically 450-400 words, an e-book is 
@@ -66,7 +65,7 @@ Download our excel sheet, and fill the order breif in the prescribed format and 
 ```
 <button type ="button"> Order
  
-![https://raw.githubusercontent.com/mantejkaur/whitepanda/master/logo_comp.png](src) **Video Script**
+**Video Script**
   
 ```markdown
         from ₹500
@@ -76,7 +75,7 @@ Download our excel sheet, and fill the order breif in the prescribed format and 
 ```
 <button type ="button"> Order
   
-![https://raw.githubusercontent.com/mantejkaur/whitepanda/master/logo_comp.png](src) **Company Profile/Brochure**
+**Company Profile/Brochure**
 ```markdown
         from ₹2000
               Typically 450-400 words, an e-book is 
@@ -85,7 +84,7 @@ Download our excel sheet, and fill the order breif in the prescribed format and 
  ```
 <button type ="button"> Order
 
-![https://raw.githubusercontent.com/mantejkaur/whitepanda/master/logo_comp.png](src) **Press Release**
+**Press Release**
 ```markdown
         from ₹2000
               Typically 450-400 words, an e-book is 
@@ -93,9 +92,3 @@ Download our excel sheet, and fill the order breif in the prescribed format and 
               from prospective customers to users
  ```
 <button type ="button"> Order
-   
-   
-   
-   
- ![https://raw.githubusercontent.com/mantejkaur/whitepanda/master/logo_comp.png](src)
-
