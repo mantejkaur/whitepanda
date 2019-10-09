@@ -85,7 +85,7 @@ Download our excel sheet, and fill the order breif in the prescribed format and 
  ```
 <button type ="button"> Order
 
-**Press Release**
+![WhitepandaWhitepanda](src) **Press Release**
 ```markdown
         from ₹2000
               Typically 450-400 words, an e-book is 
@@ -97,12 +97,5 @@ Download our excel sheet, and fill the order breif in the prescribed format and 
    
    
    
-    
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-[Link](url) and ![Image](src)
-```
+ ![WhitepandaWhitepanda](src)
 
